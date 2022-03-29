@@ -12,7 +12,7 @@
 		/*$dbhost ='localhost';
 		$dbname='infrastructures';
 		$dbuser='infrastructures';
-		$dbpswd='ECO789infra';// Ds4t85?d*/
+		
 		
 		try
 		
